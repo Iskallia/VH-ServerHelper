@@ -1,6 +1,6 @@
 # Vault Hunters 3 Server Setup Script - PowerShell Version
 param(
-    [string]$ForgeVersion = "40.2.9",
+    [string]$ForgeVersion = "40.3.11",
     [string]$JavaVersion = "17",
     [string]$JavaOverride = "",
     [string]$JvmArgs = "",

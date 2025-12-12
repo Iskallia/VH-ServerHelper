@@ -3,7 +3,7 @@
 # Compatible with Linux, macOS, and BSD systems
 
 # Configuration variables
-FORGE_VERSION="40.2.9"
+FORGE_VERSION="40.3.11"
 JAVA_VERSION="17"
 JAVA_OVERRIDE=""
 JVM_ARGS=""

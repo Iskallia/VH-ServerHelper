@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 
-SET "FORGE_VERSION=40.2.9"
+SET "FORGE_VERSION=40.3.11"
 
 :: The major java version which will be searched for on your system files for an installation of.
 SET "JAVAVERSION=17"
